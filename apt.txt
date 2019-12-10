@@ -6,3 +6,4 @@ xfce4-session
 xfce4-settings
 xorg
 xubuntu-icon-theme
+vlc
