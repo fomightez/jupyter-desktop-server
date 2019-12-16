@@ -7,4 +7,4 @@ xfce4-settings
 xorg
 xubuntu-icon-theme
 vlc
-elinks
+links2
