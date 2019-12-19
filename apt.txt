@@ -8,4 +8,4 @@ xorg
 xubuntu-icon-theme
 vlc
 links2
-python-pygame
+
