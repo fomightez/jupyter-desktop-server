@@ -1,8 +1,6 @@
 channels:
   - manics
-  - defaults
 dependencies:
   - websockify
   - pip:
     - .
-    - pygame
