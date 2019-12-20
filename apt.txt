@@ -1,5 +1,4 @@
 dbus-x11
-links2
 firefox
 xfce4
 xfce4-panel
@@ -8,5 +7,4 @@ xfce4-settings
 xorg
 xubuntu-icon-theme
 vlc
-
-
+links2
