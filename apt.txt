@@ -8,3 +8,6 @@ xorg
 xubuntu-icon-theme
 vlc
 links2
+default-jre
+default-jdk
+csh
