@@ -8,4 +8,5 @@ xorg
 xubuntu-icon-theme
 vlc
 links2
+gimp
 
